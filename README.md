@@ -1,7 +1,8 @@
-# Cloudware Human Resources
+# Cloudware Recursos Humanos
 
+Material para a festa de natal de 2017
 
-## Feature by
+## Equipa
 
 - João Ramos
 - Eurico Inocêncio
@@ -21,8 +22,8 @@
 - Vitor Pinho
 
 
-## Download
+## Descarregar
 
 [Google Photos](https://photos.app.goo.gl/IMXkRUdHfxyezvjl2)
 
-[Zip images]()
+[imagens zipadas]()
